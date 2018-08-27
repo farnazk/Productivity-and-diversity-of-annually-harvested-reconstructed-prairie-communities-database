@@ -3,7 +3,7 @@ Farnaz Kordbacheh1, Meghann Jarchow2, Lydia English1, and Matt Liebman1
 Department of Agronomy, Iowa State University, Ames, IA, 50011, USA1, and Department of Sustainability and Environment, University of South Dakota, Vermillion, SD, 57069, USA2
 
 
-Three main files were used for the analyses conducted in “Productivity and diversity of annually harvested reconstructed prairie communities.” Each of these files is associated with a data dictionary in which we define the meaning of variables and values.
+Three main files were used for the analyses conducted in “Productivity and diversity of annually harvested reconstructed prairie communities”. Each of these files are associated with a data dictionary in which we define the meaning of variables and values.
 
 1- prod_pre_div.csv was used to evaluate the relationship between productivity and precipitation. We also used this file for the Analysis of Variance (ANOVA) of productivity, species richness, Simpson’s evenness and Simpson’s diversity. This file was used to create Figures 1 and 2. The data dictionary for this file is Dictionary_prod_pre_div.csv file. 
 
