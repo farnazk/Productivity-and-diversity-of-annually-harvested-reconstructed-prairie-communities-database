@@ -11,7 +11,7 @@ Three main files were used for the analyses conducted in “Productivity and div
 
 3-	species_proportional_cover.csv was used for multivariate analyses- i.e. non-metric multidimensional Scaling (NMDS), Multi Response-Permutation Procedure (MRPP), and the matching of ordination method. This file was used to create Figure 5. The data dictionary for this file is Dictionary_species_proportional_cover.csv. 
 
-
+MIT License
 
 Copyright (c) 2018 Farnaz Kordbacheh  
  
