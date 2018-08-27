@@ -1,0 +1,9 @@
+Variable name,Measurement unit,Allowed values,Description
+Year,Nominal,2009 2010 2011 2014 2015 2016 2017,Year in which measurements were made.
+Block,Nominal,1 2 3 4,Blocks containing established prairie vegetation (27m x 61m).
+Treatment,Nominal,low-fertility  high-fertility,"Treatments were unfertilized prairie which received no N, P or K (low-fertility) and fertilized prarie which received N,P, K (high-fertility). For more information see article."
+Precipitation,Continuous,more than 0,Cumulative total precipitation (mm) from October of the previous year through September of each harvest year. Data were recorded for 9 years (2009-2017).
+Productivity,Continuous,more than 0,"Annually harvested biomass (kg ha-1) per plot. Data was recorded during 9 years (2009-2017). All plots had recorded values, except for one plot (2014, block 1, low-fertility)"
+Richness,Continuous,whole numbers or blank (null),Species richness within each plot. Data were recorded in 2009-2011  2014  2015  and 2017. Observations with no recorded values are null values. 
+Evenness,Continuous,more than 0 or blank (null),Simpson's evenness within each plot calculated as estimated Simpson's diversity divided by species richness per plot (S). Data were recorded in 2009-2011  2014  2015  and 2017. Observations with no recorded values are null values. 
+Diversity,Continuous,more than 0 or blank (null),Simpson's diversity within each plot  calculated as the summation of the squared value of the proportional abundance of the ith species in each plot (pi). Data were recorded in 2009-2011  2014  2015  and 2017. Observations with no recorded values are null values. 

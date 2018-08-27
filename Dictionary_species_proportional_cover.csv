@@ -1,0 +1,6 @@
+Variable name,Measurement unit,Allowed values,Description
+Year_Block_Treatment,Nominal,Based on other values (Year Block Treatment),"Combination of the Year, Block and Treatment variables (columns B C D) and used for processing species matrixes in R."
+Year,Nominal,2009 2010 2011 2014 2015 2016 2017,Years in which measurements were made.
+Block,Nominal,1 2 3 4,Blocks containing established prairie vegetation (27m x 61m).
+Treatment,Nominal,low-fertility  high-fertililty,"Treatments were unfertilized prairie which received no N, P or K (low-fertility) and fertilized prarie which received N,P, K (high-fertility). For more information see article."
+(binominal names of species),Continuous,>= 0,There are 59 columns of species proportional cover measurements. Proportional cover was calculated as each species' cover divided by total cover of all species per plot (m2/m2).
