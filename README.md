@@ -2,7 +2,16 @@
 Farnaz Kordbacheh1, Meghann Jarchow2, Lydia English1, and Matt Liebman1
 Department of Agronomy, Iowa State University, Ames, IA, 50011, USA1, and Department of Sustainability and Environment, University of South Dakota, Vermillion, SD, 57069, USA2
 
-“Productivity and diversity of annually harvested reconstructed prairie communities database” was compiled to test whether the long-term maintenance of biodiversity can be achieved alongside substantial productivity in fertilized mixed-species prairie. Using this database, we report how NPK fertilizer application, precipitation, and time affected the species composition and productivity of reconstructed prairie communities harvested annually as biofuel feedstocks over a nine-year period. Three main datasets were used for the analyses conducted, each encompassed a part of the full picture. First, we used prod_pre_div.csv to evaluate the relationship between productivity and precipitation. We also used this file to run the Analysis of Variance (ANOVA) on productivity, species richness, Simpson’s evenness and Simpson’s diversity. Results of this analysis are shown in Figure 1 and figure 2 of our article. Further, we used species _cover.csv for the ANOVA on the cover of individual plant species, cover of functional groups-i.e. C3 grasses, C4 grasses, the non-leguminous, the leguminous and cover of forbs partitioned by flowering time( see Table 2, Figure 3 and Figure 4). For creating a complementary picture from changes in species composition over time and treatment, we used species_proportional_cover.csv for multivariate analyses- i.e. non-metric multidimensional Scaling (NMDS), Multi Response-Permutation Procedure (MRPP), and the matching of ordination method (see Figure 5A and 5B). Usage of these datasets has no copyright or proprietary restrictions other than citation of the paper. 
+
+Three main files were used for the analyses conducted in “Productivity and diversity of annually harvested reconstructed prairie communities.” Each of these files is associated with a data dictionary in which we define the meaning of variables and values.
+
+1- prod_pre_div.csv was used to evaluate the relationship between productivity and precipitation. We also used this file for the Analysis of Variance (ANOVA) of productivity, species richness, Simpson’s evenness and Simpson’s diversity. This file was used to create Figures 1 and 2. The data dictionary for this file is Dictionary_prod_pre_div.csv file. 
+
+2-	species_cover.csv was used for the ANOVA on the cover of individual plant species, cover of functional groups, and forb flowering phenology through the season. This file was used to create Figures 3 and 4 and Table 2. The data dictionary for this file is Dictionary_species_cover.csv. 
+
+3-	species_proportional_cover.csv was used for multivariate analyses- i.e. non-metric multidimensional Scaling (NMDS), Multi Response-Permutation Procedure (MRPP), and the matching of ordination method. This file was used to create Figure 5. The data dictionary for this file is Dictionary_species_proportional_cover.csv. 
+
+
 
 Copyright (c) 2018 Farnaz Kordbacheh  
  
