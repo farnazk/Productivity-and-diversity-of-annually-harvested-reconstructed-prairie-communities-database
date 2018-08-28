@@ -1,6 +1,7 @@
 # Productivity-and-diversity-of-annually-harvested-reconstructed-prairie-communities-database
-Farnaz Kordbacheh1, Meghann Jarchow2, Lydia English1, and Matt Liebman1
-Department of Agronomy, Iowa State University, Ames, IA, 50011, USA1, and Department of Sustainability and Environment, University of South Dakota, Vermillion, SD, 57069, USA2
+Farnaz Kordbacheh(1), Meghann Jarchow(2), Lydia English(1), and Matt Liebman(1)
+(1) Department of Agronomy, Iowa State University, Ames, IA, 50011, USA, and Department of Sustainability and Environment,
+(2) University of South Dakota, Vermillion, SD, 57069, USA
 
 
 Three main files were used for the analyses conducted in “Productivity and diversity of annually harvested reconstructed prairie communities”. Each of these files are associated with a data dictionary in which we define the meaning of variables and values.
